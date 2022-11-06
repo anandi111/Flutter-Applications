@@ -108,8 +108,9 @@ class _ColorPaletteState extends State<ColorPalette> {
                       color: Colors.transparent,
                       child: InkWell(
                         onTap: () {
-                          Provider.of<ThemeProvider>(context, listen: false)
-                              .changeTheme();
+                          setState(() {});
+                          /*Provider.of<ThemeProvider>(context, listen: false)
+                              .changeTheme();*/
                         },
                         child: Container(
                           height: 50,

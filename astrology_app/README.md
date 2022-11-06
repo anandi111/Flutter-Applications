@@ -1,16 +1,32 @@
-# astrology_app
+![flutter_6](https://user-images.githubusercontent.com/107666466/198870448-df6d206b-4678-4f3f-be00-0c965920fc2c.jpg)
 
-A new Flutter project.
+---
+# Astrology App
+---
+*Functionality
+1. User can Darg and Drop his/her sunsign, and get relevant astrological information.
+2. User customize app theme.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/107666466/198870957-45fc393b-1d3a-4607-9602-e5844aa490bc.mp4
 
-A few resources to get you started if this is your first Flutter project:
+---
+# Dark Theme
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://user-images.githubusercontent.com/107666466/198870505-639b44c3-ac00-42db-9631-5f85a030eeff.jpg" alt="Girl in a jacket" width="300" height="700">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+  
+<img src="https://user-images.githubusercontent.com/107666466/198870527-af00cea4-3af7-483c-a0ed-44668cf847d6.jpg" alt="Girl in a jacket" width="300" height="700">
+
+---
+# Light Theme
+---
+  
+<img src="https://user-images.githubusercontent.com/107666466/198870547-34e76c48-6312-4b22-a306-a4aa23ab4383.jpg" alt="Girl in a jacket" width="300" height="700">
+
+---
+  
+<img src="https://user-images.githubusercontent.com/107666466/198870565-23fc00f9-e2dc-4901-b5ac-28280eed0ec5.jpg" alt="Girl in a jacket" width="300" height="700">
+

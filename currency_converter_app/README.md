@@ -1,28 +1,43 @@
-![flutter_6](https://user-images.githubusercontent.com/107666466/196156982-d724a0df-971c-4f0f-bf59-bc56fad02fe5.png)
-
-<!-- <img src="https://user-images.githubusercontent.com/107666466/196148682-5233b5f7-ddda-422d-be49-7af1695b37ef.png" width="1200" height="280"> -->
+![flutter_6](https://user-images.githubusercontent.com/107666466/198870448-df6d206b-4678-4f3f-be00-0c965920fc2c.jpg)
 
 ---
-
-# SkyScrapper_1
-Create an app which display 3 or more currencies conversion into selected currency. App should have platform dependent UI.
-e.g. For Android device, show dropdown menu and for iOS device, show item picker (as shown in attached gif and video)
-There is no need to make API-Key for this particular API call.
-Use API => https://apiv2.bitcoinaverage.com/#ticker-data-per-symbol
-App should have a splash screen which easily describes an idea about Currency Convertor App.
+# Currency Converter App
+---
+*Functionality
+1. User can search by any currency, and get relevant currency conversion.
+2. User can customize app theme.
 
 
-https://user-images.githubusercontent.com/107666466/196333500-7a36ae39-a088-4fae-a725-02a30e96f54f.mp4
-
+https://user-images.githubusercontent.com/107666466/198871376-b8337ce1-0916-4aa9-b9a5-fa30f4b036e8.mp4
 
 ---
+# Dark Theme
+---
 
-
-<img src="https://user-images.githubusercontent.com/107666466/196089266-b8d3c692-5f93-4055-af83-2127dc5cd5cb.jpg" alt="Girl in a jacket" width="300" height="700">
+<img src="https://user-images.githubusercontent.com/107666466/198871286-f6520c7a-ad98-4186-ad79-28f552c553c6.jpg" alt="Girl in a jacket" width="300" height="700">
 
 ---
   
-<img src="https://user-images.githubusercontent.com/107666466/196089278-ecd430ee-bb3a-4c5c-91da-b98640c3d857.jpg" alt="Girl in a jacket" width="300" height="700">
+<img src="https://user-images.githubusercontent.com/107666466/198871302-8dc91213-d933-47d2-bf7e-d808712459f0.jpg" alt="Girl in a jacket" width="300" height="700">
+
+---
+# Light Theme
+---
+  
+<img src="https://user-images.githubusercontent.com/107666466/198871314-80a277bb-ce03-4981-8ccb-779c92e1dd19.jpg" alt="Girl in a jacket" width="300" height="700">
+
+---
+  
+<img src="https://user-images.githubusercontent.com/107666466/198871336-ab487594-8202-46cb-a69e-499c536d83b2.jpg" alt="Girl in a jacket" width="300" height="700">
+
+
+
+
+
+
+
+
+
 
 
 

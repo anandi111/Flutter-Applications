@@ -1,16 +1,26 @@
-# color_pallet_app
+![flutter_6](https://user-images.githubusercontent.com/107666466/198871197-00f8138b-5a74-4e23-872b-3c63122e59fa.png)
 
-A new Flutter project.
+---
+# Color Palette App
+---
+*Functionality
+1. User can generate any color pallet (at least 5 colors) by pressing a button. 
+2. Color pallet must be re-generates after pressing the same button.
+3. Ues can customize app theme.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/107666466/198871169-5b588ce4-63bf-45e5-a089-753040938506.mp4
 
-A few resources to get you started if this is your first Flutter project:
+---
+# Light Theme
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://user-images.githubusercontent.com/107666466/198871139-5c67caf4-33b1-4891-9cec-3ddbdfb9a3ba.jpg" alt="Girl in a jacket" width="300" height="700">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+# Dark Theme
+---
+  
+<img src="https://user-images.githubusercontent.com/107666466/198871154-3b9d73ff-b2bd-4caf-aeae-327cdec5f05d.jpg" alt="Girl in a jacket" width="300" height="700">
+
+
